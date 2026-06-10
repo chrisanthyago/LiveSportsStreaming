@@ -1,0 +1,1047 @@
+{
+    "hosts": [
+        {
+            "name": "ELITEGOL - La Casa del Tiki Taka - Futbol En Directo",
+            "origin": "https://elitegoltv.fi"
+        },
+        {
+            "name": "PELOTA LIBRE - TV En Vivo - Futbol Gratis",
+            "origin": "https://pelotalibretv2.pl"
+        },
+        {
+            "name": "PIRLO TV | Rojadirecta | Futbol En Vivo",
+            "origin": "https://pirlotv.fi"
+        },
+        {
+            "name": "PIRLO TV | Roja directa | Futbol En Vivo",
+            "origin": "https://pirlotvonline.blog"
+        },
+        {
+            "name": "ROJADIRECTA | Tarjeta Roja TV | Futbol En Vivo",
+            "origin": "https://rojadirectamas.com"
+        },
+        {
+            "name": "TARJETA ROJA | Rojadirecta TV | Deportes En Vivo",
+            "origin": "https://tarjetarojatvmas.com"
+        }
+    ],
+    "webpages": [
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Ecuador vs Guatemala",
+            "time": "20:00",
+            "urls": [],
+            "state": {
+                "color": "red",
+                "message": "Failed to load webpage on our server with status: 404 from:",
+                "url": "https://elitegoltv.fi/rojadirectamas.com/en-vivo/liga-de-campeones-6.php"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Colombia vs Jordania",
+            "time": "23:00",
+            "urls": [],
+            "state": {
+                "color": "red",
+                "message": "Failed to load webpage on our server with status: 404 from:",
+                "url": "https://elitegoltv.fi/rojadirectamas.com/en-vivo/deportes-plus.php"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Progreso vs Albion FC",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/vtv-uruguay.php",
+                "https://playvi.click/vtv.php",
+                "https://18zone.click/player/capo/109"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/543hcacrbrvfw"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Cerro vs Peñarol",
+            "time": "18:00",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/vtv-uruguay.php",
+                "https://playvi.click/vtv.php",
+                "https://18zone.click/player/capo/109"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/543hcacrbrvfw"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Defensor Sporting vs Boston River",
+            "time": "21:30",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/vtv-uruguay.php",
+                "https://playvi.click/vtv.php",
+                "https://18zone.click/player/capo/109"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/543hcacrbrvfw"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Dinamarca vs Ucrania",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-20.php",
+                "https://playvi.click/canal20.php",
+                "https://18zone.click/player/capo/150"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/dhz6711x14"
+            }
+        },
+        {
+            "association": "",
+            "league": "LaLiga 2",
+            "sportingEvent": "Las Palmas vs Malaga",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-34.php",
+                "https://playvi.click/canal34.php",
+                "https://18zone.click/player/capo/53"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/s6kdue"
+            }
+        },
+        {
+            "association": "",
+            "league": "Formula 1",
+            "sportingEvent": "F1 Gran Premio de Monaco, Carrera",
+            "time": "13:00",
+            "urls": [
+                "https://pirlotv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjEucGhw",
+                "https://playvi.click/premier1.php",
+                "https://18zone.click/player/capo/60"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/2twhx"
+            }
+        },
+        {
+            "association": "",
+            "league": "MotoGP",
+            "sportingEvent": "GP de Hungria, Carrera",
+            "time": "09:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-11.php",
+                "https://playvi.click/canal11.php",
+                "https://18zone.click/player/capo/67"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/ud9rsutobknz1um"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Marruecos vs Noruega",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-31.php",
+                "https://playvi.click/canal31.php",
+                "https://18zone.click/player/capo/71"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/lf445b"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Colombia vs Jordania",
+            "time": "23:00",
+            "urls": [
+                "https://pirlotv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svc2VyaWVhMS5waHA=",
+                "https://playvi.click/seriea1.php",
+                "https://18zone.click/player/capo/71"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/lf445b"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Cobresal vs Palestino",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-40.php",
+                "https://playvi.click/canal40.php",
+                "https://18zone.click/player/capo/83"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/xzgyn9ofmet"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Huachipato vs Colo Colo",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-40.php",
+                "https://playvi.click/canal40.php",
+                "https://18zone.click/player/capo/83"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/xzgyn9ofmet"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Ecuador vs Guatemala",
+            "time": "20:00",
+            "urls": [
+                "https://pirlotv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjUucGhw",
+                "https://playvi.click/premier5.php",
+                "https://18zone.click/player/capo/85"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/gj2nue0"
+            }
+        },
+        {
+            "association": "",
+            "league": "Roland Garros",
+            "sportingEvent": "Flavio Cobolli vs Alexander Zverev",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-14.php",
+                "https://playvi.click/canal14.php",
+                "https://18zone.click/player/capo/87"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/a31q9"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Croacia vs Eslovenia",
+            "time": "18:45",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-26.php",
+                "https://playvi.click/canal26.php",
+                "https://18zone.click/player/capo/87"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://tinslime.net/embed/a31q9"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Progreso vs Albion FC",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-17.php",
+                "https://playvi.click/canal17.php",
+                "https://18zone.click/player/capo2/109"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://hoca8.com/footy.php?player=desktop&live=ufeed109"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Cerro vs Peñarol",
+            "time": "18:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-23.php",
+                "https://playvi.click/canal23.php",
+                "https://18zone.click/player/capo2/109"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://hoca8.com/footy.php?player=desktop&live=ufeed109"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Defensor Sporting vs Boston River",
+            "time": "21:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-37.php",
+                "https://playvi.click/canal37.php",
+                "https://18zone.click/player/capo2/119"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://hoca8.com/footy.php?player=desktop&live=ufeed119"
+            }
+        },
+        {
+            "association": "",
+            "league": "MotoGP",
+            "sportingEvent": "GP de Hungria, Carrera",
+            "time": "09:00",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/motogp.php",
+                "https://playvi.click/motogp.php",
+                "https://capo8play.com/capo.php?player=desktop&live=capocampeones2"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=capocampeones2"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Ecuador vs Guatemala",
+            "time": "20:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjgucGhw",
+                "https://playvi.click/premier8.php",
+                "https://capo8play.com/capo.php?player=desktop&live=capocampeones6"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=capocampeones6"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Cobresal vs Palestino",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/tnt-sports-chile.php",
+                "https://playvi.click/tntchile.php",
+                "https://capo8play.com/capo.php?player=desktop&live=captntchil"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=captntchil"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Huachipato vs Colo Colo",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/tnt-sports-chile.php",
+                "https://playvi.click/tntchile.php",
+                "https://capo8play.com/capo.php?player=desktop&live=captntchil"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=captntchil"
+            }
+        },
+        {
+            "association": "",
+            "league": "Formula 1",
+            "sportingEvent": "F1 Gran Premio de Monaco, Carrera",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-1.php",
+                "https://playvi.click/canal1.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Dinamarca vs Ucrania",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/deportes-plus.php",
+                "https://playvi.click/deportesplus.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Croacia vs Eslovenia",
+            "time": "18:45",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/deportes-plus.php",
+                "https://playvi.click/deportesplus.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            }
+        },
+        {
+            "association": "",
+            "league": "Formula 1",
+            "sportingEvent": "F1 Gran Premio de Monaco, Carrera",
+            "time": "13:00",
+            "urls": [
+                "https://rojadirectamas.com/en-vivo/formula-1.php",
+                "https://playvi.click/formula1.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus"
+            }
+        },
+        {
+            "association": "",
+            "league": "Roland Garros",
+            "sportingEvent": "Flavio Cobolli vs Alexander Zverev",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/deportes-plus-3.php",
+                "https://playvi.click/deportesplus3.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus3"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus3"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Colombia vs Jordania",
+            "time": "23:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svc2VyaWVhNC5waHA=",
+                "https://playvi.click/seriea4.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus3"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus3"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Marruecos vs Noruega",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/deportes-plus-4.php",
+                "https://playvi.click/deportesplus4.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus4"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus4"
+            }
+        },
+        {
+            "association": "",
+            "league": "LaLiga 2",
+            "sportingEvent": "Las Palmas vs Malaga",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/en-vivo/deportes-plus-9.php",
+                "https://playvi.click/deportesplus9.php",
+                "https://capo8play.com/capo.php?player=desktop&live=deportesplus9"
+            ],
+            "state": {
+                "color": "yellow",
+                "message": "Failed to find streaming in webpage performance entries on our server from:",
+                "url": "https://capo8play.com/capo.php?player=desktop&live=deportesplus9"
+            }
+        },
+        {
+            "association": "",
+            "league": "MotoGP",
+            "sportingEvent": "GP de Hungria, Carrera",
+            "time": "09:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-13.php",
+                "https://playvi.click/canal13.php",
+                "https://la18hd.com/vivo/canales.php?stream=espn2mx"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://la18hd.com/vivo/canales.php?stream=espn2mx"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Marruecos vs Noruega",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-33.php",
+                "https://playvi.click/canal33.php",
+                "https://la18hd.com/vivo/canales.php?stream=espndeportes"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://la18hd.com/vivo/canales.php?stream=espndeportes"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Cobresal vs Palestino",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-42.php",
+                "https://playvi.click/canal42.php",
+                "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Huachipato vs Colo Colo",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-42.php",
+                "https://playvi.click/canal42.php",
+                "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+        },
+        {
+            "association": "",
+            "league": "MotoGP",
+            "sportingEvent": "GP de Hungria, Carrera",
+            "time": "09:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-12.php",
+                "https://playvi.click/canal12.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=espn2"
+            }
+        },
+        {
+            "association": "",
+            "league": "Roland Garros",
+            "sportingEvent": "Flavio Cobolli vs Alexander Zverev",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-16.php",
+                "https://playvi.click/canal16.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=disney7"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Progreso vs Albion FC",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-19.php",
+                "https://playvi.click/canal19.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=disney3"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Dinamarca vs Ucrania",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-22.php",
+                "https://playvi.click/canal22.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=disney4"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Cerro vs Peñarol",
+            "time": "18:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-25.php",
+                "https://playvi.click/canal25.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=disney6"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Croacia vs Eslovenia",
+            "time": "18:45",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-28.php",
+                "https://playvi.click/canal28.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=disney7"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Grecia vs Italia",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-30.php",
+                "https://playvi.click/canal30.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=max2"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Marruecos vs Noruega",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-32.php",
+                "https://playvi.click/canal32.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=espndeportes"
+            }
+        },
+        {
+            "association": "",
+            "league": "LaLiga 2",
+            "sportingEvent": "Las Palmas vs Malaga",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-35.php",
+                "https://playvi.click/canal35.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=hyper1"
+            }
+        },
+        {
+            "association": "",
+            "league": "LaLiga 2",
+            "sportingEvent": "Las Palmas vs Malaga",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-36.php",
+                "https://playvi.click/canal36.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=hyper1"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Defensor Sporting vs Boston River",
+            "time": "21:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-39.php",
+                "https://playvi.click/canal39.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=disney9"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Colombia vs Jordania",
+            "time": "23:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-4.php",
+                "https://playvi.click/canal4.php"
+            ],
+            "state": {
+                "color": "orange",
+                "message": "Failed to find either an iframe or a video element, but found a div with id 'player' on our server from:",
+                "url": "https://playvi.click/canal4.php"
+            }
+        },
+        {
+            "association": "",
+            "league": "Formula 1",
+            "sportingEvent": "F1 Gran Premio de Monaco, Carrera",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjQucGhw",
+                "https://playvi.click/premier4.php",
+                "https://playvi.click/ott3.php?id=sportv3"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://playvi.click/ott3.php?id=sportv3"
+            }
+        },
+        {
+            "association": "",
+            "league": "Formula 1",
+            "sportingEvent": "F1 Gran Premio de Monaco, Carrera",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjMucGhw",
+                "https://playvi.click/premier3.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=daznf1"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Ecuador vs Guatemala",
+            "time": "20:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjcucGhw",
+                "https://playvi.click/premier7.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=sportdigital"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Colombia vs Jordania",
+            "time": "23:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svc2VyaWVhMy5waHA=",
+                "https://playvi.click/seriea3.php"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Failed to find either an iframe, a video element, or a div with id 'player' on our server from:",
+                "url": "https://streamx741.com/global2.php?channel=espndeportes"
+            }
+        },
+        {
+            "association": "",
+            "league": "Formula 1",
+            "sportingEvent": "F1 Gran Premio de Monaco, Carrera",
+            "time": "13:00",
+            "urls": [
+                "https://tarjetarojatvmas.com/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjIucGhw",
+                "https://playvi.click/premier2.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney1"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney1"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Colombia vs Jordania",
+            "time": "23:00",
+            "urls": [
+                "https://tarjetarojatvmas.com/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svc2VyaWVhMi5waHA=",
+                "https://playvi.click/seriea2.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney15"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney15"
+            }
+        },
+        {
+            "association": "",
+            "league": "Formula 1",
+            "sportingEvent": "F1 Gran Premio de Monaco, Carrera",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-2.php",
+                "https://playvi.click/canal2.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney19"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney19"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Progreso vs Albion FC",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-18.php",
+                "https://playvi.click/canal18.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney3"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney3"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Dinamarca vs Ucrania",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-21.php",
+                "https://playvi.click/canal21.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney4"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney4"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Cerro vs Peñarol",
+            "time": "18:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-24.php",
+                "https://playvi.click/canal24.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney6"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney6"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Croacia vs Eslovenia",
+            "time": "18:45",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-27.php",
+                "https://playvi.click/canal27.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney7"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney7"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Grecia vs Italia",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-29.php",
+                "https://playvi.click/canal29.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney8"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney8"
+            }
+        },
+        {
+            "association": "",
+            "league": "Liga de Uruguay",
+            "sportingEvent": "Defensor Sporting vs Boston River",
+            "time": "21:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-38.php",
+                "https://playvi.click/canal38.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=disney9"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=disney9"
+            }
+        },
+        {
+            "association": "",
+            "league": "Roland Garros",
+            "sportingEvent": "Flavio Cobolli vs Alexander Zverev",
+            "time": "13:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-15.php",
+                "https://playvi.click/canal15.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=espn"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Ecuador vs Guatemala",
+            "time": "20:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-3.php",
+                "https://playvi.click/canal3.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=eventos2"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=eventos2"
+            }
+        },
+        {
+            "association": "",
+            "league": "Amistoso Internacional",
+            "sportingEvent": "Ecuador vs Guatemala",
+            "time": "20:00",
+            "urls": [
+                "https://tarjetarojatvmas.com/deportes/eventos.php?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjYucGhw",
+                "https://playvi.click/premier6.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=eventos2"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=eventos2"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Cobresal vs Palestino",
+            "time": "16:30",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-41.php",
+                "https://playvi.click/canal41.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=max2"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=max2"
+            }
+        },
+        {
+            "association": "",
+            "league": "Copa de Chile",
+            "sportingEvent": "Huachipato vs Colo Colo",
+            "time": "19:00",
+            "urls": [
+                "https://elitegoltv.fi/deportes/canal-43.php",
+                "https://playvi.click/canal43.php",
+                "https://streamtp-x-y-z.ws/premier.php?stream=max3"
+            ],
+            "state": {
+                "color": "green",
+                "message": "Successfully found streaming on our server from:",
+                "url": "https://streamtp-x-y-z.ws/premier.php?stream=max3"
+            }
+        }
+    ]
+}
