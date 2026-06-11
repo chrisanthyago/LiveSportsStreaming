@@ -1,20 +1,20 @@
 # Config files: mandatory revalidation to ensure the browser always has the latest version
-/assets/*
+/public/assets/*
   Cache-Control: public, max-age=0, no-cache, no-store, must-revalidate
 
 # Cache CSS for 30 days in the browser, allowing for revalidation in the background on the CDN
-/css/*
+/public/css/*
   Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
 
 # Cache images for 1 year (immutable static assets)
 # It is assumed that these files have hashes in their names so that they can be invalidated when changed
-/img/*
+/public/img/*
   Cache-Control: public, max-age=31536000, immutable
 
 # Cache JS for 30 days in the browser, allowing for revalidation in the background on the CDN
-/js/*
+/public/js/*
   Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
 
 # HTML or dynamic files: mandatory revalidation to ensure the browser always has the latest version
-/*.html
+/public/*.html
   Cache-Control: public, max-age=0, must-revalidate
