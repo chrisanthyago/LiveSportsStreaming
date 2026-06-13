@@ -3,8 +3,8 @@
     "pages_build_output_dir": "./public",
     "kv_namespaces": [
         {
-            "binding": "KEY_VALUE",
-            "id": "4a6b8c2d1e3f4g5h6i7j8k9l0m1n2o3p"
+            "binding": "PROD_STORE_KV",
+            "id": "4c91028088984c9c8c51af39c15c74c2"
         }
     ]
 }
