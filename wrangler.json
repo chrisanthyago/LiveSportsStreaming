@@ -1,5 +1,6 @@
 {
     "$schema": "https://unpkg.com/wrangler/config-schema.json",
+    "name": "livesportstream",
     "pages_build_output_dir": "./public",
     "kv_namespaces": [
         {
