@@ -4,7 +4,7 @@
     "pages_build_output_dir": "./public",
     "kv_namespaces": [
         {
-            "binding": "PROD_STORE_KV",
+            "binding": "KEY_VALUE",
             "id": "4c91028088984c9c8c51af39c15c74c2"
         }
     ]
