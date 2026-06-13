@@ -1,0 +1,10 @@
+{
+    "$schema": "https://unpkg.com/wrangler/config-schema.json",
+    "pages_build_output_dir": "./public",
+    "kv_namespaces": [
+        {
+            "binding": "KEY_VALUE",
+            "id": "4a6b8c2d1e3f4g5h6i7j8k9l0m1n2o3p"
+        }
+    ]
+}

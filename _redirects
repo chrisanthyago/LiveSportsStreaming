@@ -1,2 +1,2 @@
 # Redirect requests to the default homepage
-/    /public/tv-online    302
+/    /public/tv-online    301
